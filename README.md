@@ -55,5 +55,6 @@ O projeto utiliza a biblioteca `pico-sdk` e os seguintes módulos:
 - Pressione o botão A para ativar/desativar o PWM dos LEDs e alternar a exibição do quadrado na tela.
 
 ## Vídeo de Demonstração
+https://drive.google.com/file/d/15612vnRo_8yJrPZZ66SBA6RDDXUqKuM9/view?usp=sharing
 
 
